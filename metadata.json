@@ -1,0 +1,9 @@
+{
+  "name": "google AI",
+  "description": "An AI-powered attendance tracking system using facial recognition. Manage students, track attendance, and view real-time surveillance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
